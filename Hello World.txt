@@ -1,2 +1,3 @@
 print ("Привет мир")
 print ("Hello everybody")
+print ("Vika ti loshara")
